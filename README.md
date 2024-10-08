@@ -50,7 +50,14 @@ First we create a  AppLayout inside AppLayout their are many portions
   -copyright
   -address
   -links
-
-
-
 -->
+
+ {/* <RestaurantCard  resData = {resObj[0]} />
+          <RestaurantCard  resData = {resObj[1]} />
+          <RestaurantCard  resData = {resObj[2]} />
+          <RestaurantCard  resData = {resObj[3]} />
+          <RestaurantCard  resData = {resObj[4]} />
+          <RestaurantCard  resData = {resObj[5]} />
+          <RestaurantCard  resData = {resObj[6]} />
+          <RestaurantCard  resData = {resObj[7]} />
+           */}
